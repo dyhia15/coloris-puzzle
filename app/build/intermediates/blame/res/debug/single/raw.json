@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\time_up.mp3",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\raw\\time_up.mp3"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success.mp3",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bg_music.mp3",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\raw\\bg_music.mp3"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\level_cmp.mp3",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\raw\\level_cmp.mp3"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fail.mp3",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\raw\\fail.mp3"
+    }
+]

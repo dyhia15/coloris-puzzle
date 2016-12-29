@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_about.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vide.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\vide.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vert.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\vert.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_blue.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_blue.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blanc.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\blanc.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_mauve.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_mauve.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_rouge.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_rouge.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_vert.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_vert.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apture1.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\apture1.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rouge.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\rouge.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_blanc.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_blanc.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_help.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\ic_help.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cellvect_jaune.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\cellvect_jaune.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mauve.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\mauve.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jeune.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\jeune.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

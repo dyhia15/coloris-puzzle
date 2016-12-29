@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\rouge_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\rouge_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vert_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\vert_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\mauve_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\mauve_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\blanc_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\blanc_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\blue.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\blue.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vide.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\vide.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\blanc.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\blanc.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\jeune_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\jeune_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\jeune.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\jeune.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\vert.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\vert.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\mauve.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\mauve.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\apture1.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\apture1.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\blue_min.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\blue_min.png"
+    },
+    {
+        "merged": "D:\\projeandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\rouge.png",
+        "source": "D:\\projeandroid\\app\\src\\main\\res\\drawable-ldpi\\rouge.png"
+    }
+]
